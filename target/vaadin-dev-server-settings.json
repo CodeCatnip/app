@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "C:/Users/Dominika/Desktop/app/measurements-app-develop/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/Dominika/Desktop/app/measurements-app-develop/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/Dominika/Desktop/app/measurements-app-develop/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\Dominika\\Desktop\\app\\measurements-app-develop\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\Dominika\\Desktop\\app\\measurements-app-develop\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/Dominika/Desktop/app/measurements-app-develop/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/Dominika/Desktop/app/measurements-app-develop/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/Dominika/Desktop/app/measurements-app-develop/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\Dominika\\Desktop\\app\\measurements-app-develop\\target\\sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
